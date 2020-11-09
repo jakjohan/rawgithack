@@ -94,7 +94,7 @@ var game = {
       } else {
         game.goToNextQuestion();
       }
-    }, 1000);
+    }, 5000);
   },
 
   drawGaugeValue: function() {
